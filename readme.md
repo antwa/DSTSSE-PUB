@@ -11,14 +11,12 @@ Go to [**Releases**](../../releases) and download the latest zip for your platfo
 | Platform | File | Notes |
 |----------|------|-------|
 | Windows x64 | `DSTSSE-v*-windows-x64.zip` | Portable — extract and run `dstsse.exe` |
-| Linux x64 | `DSTSSE-v*-linux-x64.zip` | AppImage + .deb, works on SteamOS / most distros |
 
 Each release includes `SHA256SUMS.txt` to verify your download.
 
 ## Requirements
 
 - **Windows 10/11** — WebView2 (usually pre-installed)
-- **Linux** — WebKit2GTK 4.1, libappindicator3
 
 ## Features
 
